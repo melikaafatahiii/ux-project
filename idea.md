@@ -35,4 +35,4 @@ A mobile app is suitable because users can access their digital wardrobe wheneve
 
 ## 6. AI Use
 
-ChatGPT – Used to brainstorm the initial app concept and help draft this document. The student will review and edit the final content.
+
