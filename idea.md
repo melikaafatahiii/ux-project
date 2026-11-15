@@ -33,6 +33,4 @@ A mobile app is suitable because users can access their digital wardrobe wheneve
 2. Social networking and sharing outfits with other users.
 3. Virtual try-on using augmented reality.
 
-## 6. AI Use
-
 
